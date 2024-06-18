@@ -24,7 +24,7 @@ namespace Apsoil
     public partial class UploadApsoilSoilsFile : System.Web.UI.Page
     {
         /// <summary>The soil path to upload a new XML for.</summary>
-        private string pathToOverride;
+        // private string pathToOverride;
         private bool userSoil = false;
 
         /// <summary>Handles the Load event of the Page control.</summary>
